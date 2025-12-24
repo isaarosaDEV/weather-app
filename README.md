@@ -16,3 +16,6 @@ Projeto de um site de previsão do tempo que permite consultar as condições cl
 - CSS3
 - JavaScript
 - API de previsão do tempo (ex: OpenWeatherMap)
+
+Link do projeto:
+https://isaarosadev.github.io/weather-app/
